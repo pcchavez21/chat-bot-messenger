@@ -1,0 +1,29 @@
+say: "Hola por favor selecciona una opcion"
+answers:
+  Agendar Citas:
+    say: "Gracias por tomarnos como preferencia"
+    answers:
+      Lesion activa:
+        say: "Espera la ayuda de nuestra personal, gracias"
+      Lesion cronica:
+        say: "Espera la ayuda de nuestra personal, gracias"
+      Contacto:
+        say: "4151000883"
+  Preguntas Frecuentes:
+    say: "Gracias por tomarnos como preferencia ¿Cual es tu duda?"
+    answers:
+      Lesion activa:
+        say: "Espera la ayuda de nuestra personal, gracias"
+      Lesion cronica:
+        say: "Espera la ayuda de nuestra personal, gracias"
+      Contacto:
+        say: "4151000883"
+  Promociones:
+    say: "Gracias por tomarnos como preferencia, aqui te muestro las promociones"
+    answers:
+      Lesion activa:
+        say: "Espera la ayuda de nuestra personal, gracias"
+      Lesion cronica:
+        say: "Espera la ayuda de nuestra personal, gracias"
+      Contacto:
+        say: "4151000883"

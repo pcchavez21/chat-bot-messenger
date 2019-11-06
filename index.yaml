@@ -1,0 +1,6 @@
+indexes:
+
+- kind: UserEvent
+  properties:
+  - name: user_id
+  - name: date
